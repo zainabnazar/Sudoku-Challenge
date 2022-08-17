@@ -15,3 +15,9 @@ const array = [
 test('Test the above array is valid sudoku', () => {
     expect(sudoku(array)).toBe(true);
 });
+
+test("Throw error when passing empty array", () => {
+    expect(sudoku([])).toMatchObject({
+        error: "Invalid input"
+    });
+});

@@ -1,6 +1,9 @@
 
 
 function sudoku(array) {
+    if (array.length <= 0) {
+        return { error: "Invalid input" }
+    }
     let rows = [];
     let columns = [];
     let cross = [];
