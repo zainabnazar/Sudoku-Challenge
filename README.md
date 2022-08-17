@@ -1,8 +1,6 @@
 # Sudoku-Challenge
 Sudoku is a number-placement puzzle where the objective is to fill a 9x9 grid with digits such that each column, each row and each 3x3 sub-grid contain all digits from 1 to 9 exactly once. The challenge this week is to write code capable of validating whether a given Sudoku solution is valid or not.
     
-They observe somebody using the PIN pad on the doorway to gain access, but unfortunately couldn't get a good enough look at the exact keys which were pressed. The digits were approximately 97516, but each real digit could actually lie on a horizontally or vertically adjacent digit to the approximate ones. Your task is to use this information to determine a list of possible PIN codes.
-It's also useful to note that some keys on the PIN pad appear to be more worn/used than others. The following array represents how worn each key looks, from most worn to least: ```[5,1,2,8,7,4,0,3,6,9]```
 # Rewards:
 :five:  Points are awarded for an algorithm capable of validating these sample games.
 
