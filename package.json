@@ -1,0 +1,14 @@
+{
+  "name": "challenge11-sudoku",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sudoku.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "zainab noori",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
